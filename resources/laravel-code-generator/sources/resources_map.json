@@ -1,0 +1,10 @@
+[
+    {
+        "model-name": "SongCategory",
+        "resource-file": "song_categories.json"
+    },
+    {
+        "model-name": "Song",
+        "resource-file": "songs.json"
+    }
+]
